@@ -10,7 +10,7 @@
     "degit": "^2.2.2",
     "front-matter": "^3.0.2",
     "fs-extra": "^8.1.0",
-    "get-port": "^5.0.0",
+    "get-port": "^5.1.0",
     "glob": "^7.1.6",
     "highlight.js": "^9.17.1",
     "intersection-observer": "^0.7.0",

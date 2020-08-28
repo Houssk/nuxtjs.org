@@ -14,7 +14,7 @@
     "glob": "^7.1.6",
     "highlight.js": "^9.17.1",
     "intersection-observer": "^0.7.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.17",
     "marked": "^0.8.0",
     "micro": "^9.3.4",
     "mousetrap": "^1.6.3",
